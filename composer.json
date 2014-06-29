@@ -1,6 +1,6 @@
 {
     "minimum-stability": "dev",
-    "name": "cnkt/FlashMeesage",
+    "name": "cnkt/flash-meesage",
     "description": "FlashMeesage is designed to create and retrieve self-expiring, session-based messages",
     "authors": [
         {
