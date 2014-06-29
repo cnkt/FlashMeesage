@@ -1,0 +1,20 @@
+{
+    "minimum-stability": "dev",
+    "name": "cnkt/FlashMeesage",
+    "description": "FlashMeesage is designed to create and retrieve self-expiring, session-based messages",
+    "authors": [
+        {
+            "name": "Cankat Akdemir",
+            "email": "cankatakdemir@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "brikou/zend_session": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "FlashMeesage": "src/"
+        }
+    }
+}
